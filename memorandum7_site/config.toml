@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://memorandum7.com/'
 languageCode = 'en-us'
 title = 'memorandum7'
 theme = 'noteworthy'
