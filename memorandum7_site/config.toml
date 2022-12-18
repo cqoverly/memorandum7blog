@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'memorandum7'
 theme = 'noteworthy'
+description = 'contemplations on curriculum and systems in higher ed'
+
