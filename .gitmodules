@@ -1,3 +1,6 @@
 [submodule "memorandum7_site/themes/noteworthy"]
 	path = memorandum7_site/themes/noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+[submodule "memorandum7_site/themes/themes/hugo-tanka"]
+	path = memorandum7_site/themes/themes/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git

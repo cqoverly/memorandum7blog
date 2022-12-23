@@ -1,6 +1,49 @@
-baseURL = 'https://memorandum7.com/'
+baseURL = 'https://memorandum7.com'
 languageCode = 'en-us'
 title = 'memorandum7'
 theme = 'noteworthy'
 description = 'contemplations on curriculum and systems in higher ed'
 
+[taxonomies]
+    tag = "tags"
+
+[author]
+    mame = "cqoverly"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    math = true
+    # Blog description at the top of the homepage. Supports markdown.
+    description = "contemplations on curriculum and systems in higher ed"
+
+    showReadMore = false
+
+    # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.
+    enableKofi = false
+    kofi = ""
+
+    # Add links to your accounts. Remove the ones you don't want to include.
+    # Main
+    mastodon = "https://mastodon.social/@cqoverly"
+    linkedin = "https://www.linkedin.com/in/cqoverly"
+
+# Menu links along the sidebar navigation.
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+#[[menu.main]]
+    #name = "Archives"
+    #identifier = "archives"
+    #url = "/archives/"
+    #weight = 3

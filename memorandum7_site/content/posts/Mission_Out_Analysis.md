@@ -1,0 +1,19 @@
+---
+title: "Mission Out Analysis"
+date: 2022-12-23T10:57:24-08:00
+tags: ['curriculum', 'analysis', 'highered']
+---
+
+**Disclaimer: The views I express in these writings are my own and do not necessarily reflect the department, college, or university with which I am employed.**
+
+This post is the start to a series on my views pertaining to curriculum analysis, and my views on the process as it pertains to department-level review. But I must frame the following set of posts before I can proceed. While perhaps insufficient in its explanation, we will use the overview of "Curriculum" as preferred by Wiles & Bondi in their book "Curriculum Development: A Guide to Practive" which I believe shows the breadth of the field:
+
+> The curriculum represents a set of desired goals or values that are activated through a development process and culminate in successful learning experiences for students. (Wiles & Bondi, 2007)
+
+When examined through such a lens, it is hard to distinguish where the curriculum starts and where it ends as pertains to the student experience. In higher education, this will span areas as diverse as material learn in coursework, which covers much of the general perception of curriculum, to social events for students on campus aimed at developing community and support for students. Healthcare, the food in the dorms, the expectations of inclusivity: every decision our higher education institution makes that touches our students is, in the fullest sense of the definition, curriculum. When stepping back, this becomes an obvious assumption. If a student is not well fed, then their ability to focus on coursework is diminished, and their ability to compete in the workforce is negatively impacted. If a student feels isolated within the community, they may likely suffer mental and emotional impacts that reduce motivation or lessen the student's ability to seek assistance when facing difficulty understanding course material. As educators, it is important to take all the non-coursework aspect of curriculum into account.
+
+With the full breath of the scope of definition in mind, the task of a full curriculum review is far beyond the scope of what I will discuss. I will attempt to describe a process for analyzing the coursework curriculum of a department, and ways to find gaps or misplacement in material a department course offering provide. While departments do try to create experiences for their students outside of coursework, such as orientations, social events, or the practices of an department's advising staff, the primary curricular development practiced within departments pertains to the transferring of knowledge and skills relating to the department's particular field. 
+
+I will also not attempt to cover the nuances of various degree levels, and will have as a primary focus the undergraduate and non thesis-based masters level curricula. The PhD curriculum is, in general, quite distinct in its aims and focus, with student being trained to be collaborators in the research space, whereas undergraduate and masters curricula, in general, focus or skill and material transference, with entering the workforce as central to what is offered.
+
+In the next post, I will provide a brief overview of my preferred view on analysing a department's course curriclum in the general higher education setting. What I will refer to as "Mission Out Analysis" is a way of walking through a curriculum in reverse, from the ultimate goal of the curriculum, driven by the department's stated mission, to the core and foundational courses through which a student is introduced to the field domain of the department. Whereas it might be tempting to come up with a list of base skills and knowledge all students should know, then build up from that foundation, I prefer to understand first where we want our students have in their toolbox upon graduation and work my way back from there. 

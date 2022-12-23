@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://memorandum7.com/posts/introductions/</loc>
-    <lastmod>2022-12-17T16:44:57-08:00</lastmod>
+    <loc>https://memorandum7.com/tags/analysis/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
+  </url><url>
+    <loc>https://memorandum7.com/tags/curriculum/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
+  </url><url>
+    <loc>https://memorandum7.com/tags/highered/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
   </url><url>
     <loc>https://memorandum7.com/</loc>
-    <lastmod>2022-12-17T16:44:57-08:00</lastmod>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
+  </url><url>
+    <loc>https://memorandum7.com/posts/mission_out_analysis/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
   </url><url>
     <loc>https://memorandum7.com/posts/</loc>
-    <lastmod>2022-12-17T16:44:57-08:00</lastmod>
-  </url><url>
-    <loc>https://memorandum7.com/categories/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
   </url><url>
     <loc>https://memorandum7.com/tags/</loc>
+    <lastmod>2022-12-23T10:57:24-08:00</lastmod>
+  </url><url>
+    <loc>https://memorandum7.com/about/</loc>
+    <lastmod>2022-12-22T10:16:49-08:00</lastmod>
+  </url><url>
+    <loc>https://memorandum7.com/posts/introductions/</loc>
+    <lastmod>2022-12-17T16:44:57-08:00</lastmod>
   </url>
 </urlset>
